@@ -2,6 +2,27 @@
 
 Production planning engine for small food manufacturers (sample company: Kuih Mesra Sdn Bhd).
 
+## Team Information
+
+| Field                 | Details                               |
+| ---                   | ---                                   |
+| **Team Name**         | TimeOut                               |
+| **Team Domain**       | Domain 2                              |
+| **SDG Track (1–17)**  | SDG 8 Decent Work and Economic Growth |
+| **Team Leader**       | M.Husein I. Rinaldi                   |
+| **University**        | Sunway University                     |
+| **Number of Members** | 5                                     |
+
+## Links
+
+| Resource              | Link                                |
+| ---                   | ---                                 |
+| GitHub Repository     | https://github.com/Whoosayinn/Timed |
+| Replit Project        | https://replit.com/Whoosayinn/Timed |
+| Live Demo             | Local                               |
+| Slide Deck            | Included in Repository              |
+| Demo Video            | https://youtu.be/TCKkkPqsjXk        |
+
 ## Run
 
 ```
